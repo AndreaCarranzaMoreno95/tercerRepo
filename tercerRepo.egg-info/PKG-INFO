@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: tercerRepo
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/AndreaCarranzaMoreno95/tercerrepo
+Author: Andrea Carranza
+Author-email: angeles20111@live.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
